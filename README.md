@@ -1,2 +1,1 @@
-6 task to HTML module
-And 7, 8
+Now this is a project of CSS
