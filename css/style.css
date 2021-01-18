@@ -2,6 +2,7 @@
 
 .body {  /*Задал размер шрифта предку, установил фон, цвет текста, масштабирование задней картинки*/ 
   font: 14pt Oswald;
+
   background: scroll url(../images/back.jpg) no-repeat;
   color: white;
   background-size: cover;
@@ -11,6 +12,8 @@
 	font-family: Neucha;
   text-align: center;
 	margin: 10px 0 -40px 0; /*Чтобы не было больше разрыва между заголовком и текстом*/
+	text-align: center;
+	margin: 10px; /*Чтобы не было больше разрыва между заголовком и текстом*/
 	text-shadow: 5px 5px 20px white; /*Тень*/
 }
 
